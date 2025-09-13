@@ -14,7 +14,7 @@ class nodeloc
             'name'        => 'NodeLoc登录',
             'description' => '使用NodeLoc账号登录',
             'author'      => 'Mike Leone',
-            'logo_url'    => 'nodeloc.svg',
+            'logo_url'    => 'nodeloc.png',
         ];
     }
 
